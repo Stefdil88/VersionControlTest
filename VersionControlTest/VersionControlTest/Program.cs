@@ -10,7 +10,7 @@ namespace VersionControlTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("ciao");
+            Console.WriteLine("ciao sono stefano");
             Console.ReadLine();
         }
     }
