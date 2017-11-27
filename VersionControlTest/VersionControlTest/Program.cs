@@ -11,6 +11,7 @@ namespace VersionControlTest
         static void Main(string[] args)
         {
             Console.WriteLine("ciao sono stefano");
+            Console.WriteLine("this is a test");
             Console.ReadLine();
         }
     }
